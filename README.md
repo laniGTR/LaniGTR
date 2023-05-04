@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jelani, an <a href="https://www.linkedin.com/in/jesus-rodriguez-72072119b">IT Professional</a>👨‍💻</h1>
+<h1>Hi, I'm Jelani, an <a href="https://www.linkedin.com/in/jelaniforde">IT Professional</a>👨‍💻</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JDanielRod/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JDanielRod/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JDanielRod/Configuring-on-premises-AD-within-Azure)
+  - [Configuring Active Directory within Azure VMs](https://github.com/JDanielRod/Configuring-on-premises-AD-within-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JDanielRod/NSGs-and-Inspecting-Network-Protocols)
 - <b>Nessus</b>
   - [Vulnerability Managment using Nessus](https://github.com/JDanielRod/Vulnerability-Managment-using-Nessus)
@@ -21,5 +21,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/jelani-forde-750995217/
-
+[linkedin]: https://www.linkedin.com/in/jelaniforde
