@@ -3,7 +3,7 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/LaniGTR/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/LaniGTR/ostickets-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/LaniGTR/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/LaniGTR/ticket-lifecycle)
 - <b>Microsoft Azure</b>
