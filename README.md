@@ -21,5 +21,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/jelaniforde
+[linkedin]: https://www.linkedin.com/in/jelani-forde-750995217/
 
